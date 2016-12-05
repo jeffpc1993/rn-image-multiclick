@@ -1,0 +1,23 @@
+{
+  "name": "rn-image-multiclick",
+  "version": "1.0.0",
+  "description": "Use images such that clicking on different parts of it leads to different urls.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffpc1993/rn-image-multiclick.git"
+  },
+  "keywords": [
+    "image",
+    "multiurl"
+  ],
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffpc1993/rn-image-multiclick/issues"
+  },
+  "homepage": "https://github.com/jeffpc1993/rn-image-multiclick#readme"
+}
